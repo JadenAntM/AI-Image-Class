@@ -3,6 +3,9 @@
 This project demonstrates a convolutional neural network (CNN) built using Python, TensorFlow, and Keras to classify fish species with 95% accuracy. 
 The model predicts one of two classes (binary classification): Brook Trout or Smallmouth Bass, based on input images. (Planning to add more classes in the future)
 
+## Inspiration
+I love fishing and my friends had a hard time distinguting between different types of fish when I took them fishing, so I thought it would be cool to create a project that could distingush between different types of fish.
+
 ## Features
 
 - **High Accuracy:** Achieved 95% accuracy in distinguishing between Brook Trout and Smallmouth Bass.
