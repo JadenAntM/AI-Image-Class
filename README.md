@@ -17,8 +17,9 @@ The model predicts one of two classes (binary classification): Brook Trout or Sm
 - **Matplotlib:** For visualizing data and Grad-CAM heatmaps.
 
 ## Example Outputs
-
+- Image of the largest smallmouth bass that I caught summer of 2022 (input image)
 ![image](https://github.com/user-attachments/assets/9f862fb8-3de2-4e9a-ac25-3bd32455f13c)
+- Results 
 ![image](https://github.com/user-attachments/assets/9e11c1d7-741c-49b0-8202-dcecef307bec)
 
 
